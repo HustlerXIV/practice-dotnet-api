@@ -142,3 +142,4 @@
 /Users/hustlerxiv/Desktop/practice/api/bin/Debug/net8.0/System.Web.WebPages.Razor.dll
 /Users/hustlerxiv/Desktop/practice/api/bin/Debug/net8.0/System.Web.WebPages.dll
 /Users/hustlerxiv/Desktop/practice/api/bin/Debug/net8.0/Microsoft.Web.Infrastructure.dll
+/Users/hustlerxiv/Desktop/practice/api/obj/Debug/net8.0/api.sourcelink.json
